@@ -1,0 +1,6 @@
+# naam	massa(kg)	radius(km)
+Venus	4.8685e24	6051.8
+Aarde	5.9736e24	6378.1
+Mars	6.4185e23	3396.2
+Maan	7.349e22	1738.1
+Saturnus	5.6846e26	60268

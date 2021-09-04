@@ -1,0 +1,7 @@
+# naam	snelheid (km/h)	hoek (graden)
+Kip	93.6	34.6
+Roodborst	93.6	60.9
+Grutto	45.4	45.4
+Uil	76.2	48.3
+Ooievaar	30.3	78.4
+Ekster	110.3	78.4
